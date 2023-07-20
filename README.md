@@ -3,7 +3,7 @@
 <h3 align="center">Undergraduate at SLIIT</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=randinimendis&label=Profile%20views&color=0e75b6&style=flat" alt="jayani000" /> </p>
+
 - 🔭 I’m currently working on **MEARN STACK**
 
 - 🌱 I’m currently learning **Android,Learn React,Centre for Open &Distance Learning (CODL) -University of Moratuwa, Sri Lanka**
