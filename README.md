@@ -1,4 +1,4 @@
-![Purple Gradient Digital Marketing  Banner (2)](https://miro.medium.com/v2/resize:fit:1600/0*K2WLMTExLyida7OR.gif)
+![Purple Gradient Digital Marketing  Banner (2)](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Jayani Rashmika Jayaweera</h1>
 <h3 align="center">Undergraduate at SLIIT</h3>
 
